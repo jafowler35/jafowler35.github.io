@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who i am, my education, experiences, and intrests
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+My name is Jusin Fowler, I am a computer and electrical engineering student at Michigan State University
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I was born in Lansing, Michigan on September 3rd, 2004, and graduated from Walled Lake Central High School.
+I'm very eager to gaining firsthand experience, explore carreer opportunities, and develop technical skills for my carreer
